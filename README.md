@@ -4,7 +4,10 @@ Local system that recongnize suspicious moviments and faces. Uses EmguCV. 32 bit
 This is a graduation final project of Control and Automation Engineering that has been improved by its students.
 
 University: Universidade Federal de Minas Gerais - Brasil
-Teacher in charge: Frederico Gadelha (frederico.g.guimaraes@gmail.com)
+
+Teacher in charge: 
+
+Frederico Gadelha (frederico.g.guimaraes@gmail.com)
 
 Students:
 
