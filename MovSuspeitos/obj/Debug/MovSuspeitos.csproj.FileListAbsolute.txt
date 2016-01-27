@@ -1,0 +1,101 @@
+C:\Emgu\emgu3\Emgu.CV.Example\MovSuspeitos\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgu3\Emgu.CV.Example\MovSuspeitos\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgu3\bin\Emgu.CV.License.txt
+C:\Emgu\emgu3\bin\haarcascade_eye.xml
+C:\Emgu\emgu3\bin\haarcascade_frontalface_default.xml
+C:\Emgu\emgu3\bin\lena.jpg
+C:\Emgu\emgu3\bin\Example.FaceDetection.exe
+C:\Emgu\emgu3\bin\Example.FaceDetection.pdb
+C:\Emgu\emgu3\Emgu.CV.Example\MovSuspeitos\obj\Debug\MovSuspeitos.csprojResolveAssemblyReference.cache
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\SistemaSeguranca\MovSuspeitos\obj\Debug\Example.FaceDetection.exe
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\SistemaSeguranca\MovSuspeitos\obj\Debug\Example.FaceDetection.pdb
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\SistemaSeguranca\MovSuspeitos\obj\Debug\MovSuspeitos.csprojResolveAssemblyReference.cache
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\haarcascade_eye.xml
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\haarcascade_frontalface_default.xml
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\lena.jpg
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\Example.FaceDetection.exe
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\Example.FaceDetection.pdb
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_core300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\cvextern.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\msvcp120.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\msvcr120.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_bgsegm300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_calib3d300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_face300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_features2d300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_ffmpeg300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_flann300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_highgui300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_imgcodecs300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_imgproc300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_latentsvm300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_ml300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_objdetect300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_optflow300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_photo300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_shape300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_stitching300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_superres300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_text300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_video300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_videoio300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_videostab300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_xfeatures2d300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_ximgproc300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_xobjdetect300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\opencv_xphoto300.dll
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\SistemaSeguranca\MovSuspeitos\obj\Debug\MovSuspeitos.csproj.GenerateResource.Cache
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Janelas.DefinirAreaRestrita.resources
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Form1.resources
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Janelas.JanelaDeCalibracao.resources
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Janelas.JanelaDeMonitoramento.resources
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Janelas.JanelaDeMonitoramentoBlob.resources
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Janelas.JanelaTreinarDetector.resources
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\bin\Example.FaceDetection.exe.config
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Janelas.JanelaDetectarFace.resources
+C:\Users\Tadeu Rahian\Documents\Visual Studio 2010\Projects\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\lena.jpg
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\cvextern.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\msvcp120.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\msvcr120.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_bgsegm300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_calib3d300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_core300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_face300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_features2d300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_ffmpeg300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_flann300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_highgui300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_imgcodecs300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_imgproc300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_latentsvm300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_ml300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_objdetect300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_optflow300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_photo300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_shape300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_stitching300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_superres300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_text300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_video300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_videoio300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_videostab300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_xfeatures2d300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_ximgproc300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_xobjdetect300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\opencv_xphoto300.dll
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\Example.FaceDetection.exe.config
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\Example.FaceDetection.exe
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\bin\Example.FaceDetection.pdb
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Janelas.DefinirAreaRestrita.resources
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Form1.resources
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Janelas.JanelaDeCalibracao.resources
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Janelas.JanelaDeMonitoramento.resources
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Janelas.JanelaDeMonitoramentoBlob.resources
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Janelas.JanelaDetectarFace.resources
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Janelas.JanelaTreinarDetector.resources
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\SistemaSeguranca\MovSuspeitos\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\SistemaSeguranca\MovSuspeitos\obj\Debug\MovSuspeitos.csproj.GenerateResource.Cache
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\SistemaSeguranca\MovSuspeitos\obj\Debug\Example.FaceDetection.exe
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\SistemaSeguranca\MovSuspeitos\obj\Debug\Example.FaceDetection.pdb
+C:\Users\Ludmila\Dropbox\UFMG\Antigos\PFC1\SistemaSeguranca\MovSuspeitos\obj\Debug\MovSuspeitos.csprojResolveAssemblyReference.cache

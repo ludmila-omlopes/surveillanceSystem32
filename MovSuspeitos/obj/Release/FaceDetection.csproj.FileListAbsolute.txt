@@ -1,0 +1,9 @@
+C:\Emgu\emgu3\bin\Emgu.CV.License.txt
+C:\Emgu\emgu3\bin\haarcascade_eye.xml
+C:\Emgu\emgu3\bin\haarcascade_frontalface_default.xml
+C:\Emgu\emgu3\bin\lena.jpg
+C:\Emgu\emgu3\bin\Example.FaceDetection.exe
+C:\Emgu\emgu3\bin\Example.FaceDetection.pdb
+C:\Emgu\emgu3\Emgu.CV.Example\FaceDetection\obj\Release\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgu3\Emgu.CV.Example\FaceDetection\obj\Release\Example.FaceDetection.exe
+C:\Emgu\emgu3\Emgu.CV.Example\FaceDetection\obj\Release\Example.FaceDetection.pdb
