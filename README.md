@@ -15,4 +15,3 @@ Students:
 
 2 - Ludmila Lopes - 2015 (ludmila.omlopes@gmail.com)
 
-3 - Henrique Alves - 2016 (henriquealves1@hotmail.com)
